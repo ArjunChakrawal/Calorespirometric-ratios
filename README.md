@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4059958.svg)](https://doi.org/10.5281/zenodo.4059958)
+
 # Calorespirometric-ratios
 This repository contains Matlab R2020a scripts used to create figures in our publication [Quantifying microbial metabolism in soils using calorespirometry — A bioenergetics perspective](https://doi.org/10.1016/j.soilbio.2020.107945). 
 
