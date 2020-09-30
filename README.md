@@ -3,7 +3,7 @@ This repository contains Matlab R2020a scripts used to create figures in our pub
 
 ## Plain summary
 >The decomposition of organic matter in soils produces both heat and CO2. With simultaneous measurements of heat dissipation and CO2 production rate, it is possible to calculate the ratio of heat to CO2 production rates- referred to as the calorespirometric ratios (CR). In this work, we proposed a general mass and energy balance framework that is used to interpret observed CR in soils. Using CR it is possible to predict the metabolic pathways microbes use to decompose organic matter. Furthermore, we show that CR can be used to estimate C-use efficiency (CUE). The framework links CR, CUE, and soil organic matter priming with a simple formula.
-![Fig1](https://github.com/ArjunChakrawal/Calorespirometric-ratios/blob/master/Figures/Figure1.png | width=100)
+![Fig1](https://github.com/ArjunChakrawal/Calorespirometric-ratios/blob/master/Figures/Figure1.png =100x)
 
 ### Third party scripts
 Some third party scripts (from MATLAB Central File Exchange) are used in delevoping this model and already included in this repository. These scripts are redistributable under their respective licenses which can be found in the following links.
