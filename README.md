@@ -2,7 +2,7 @@
 This repository contains Matlab R2020a scripts used to create figures in our publication [Quantifying microbial metabolism in soils using calorespirometry — A bioenergetics perspective](https://doi.org/10.1016/j.soilbio.2020.107945). 
 
 ## Plain summary
-The decomposition of organic matter in soils produces both heat and CO2. With simultaneous measurements of heat dissipation and CO2 production rate, it is possible to calculate the ratio of heat to CO2 production rates- referred to as the calorespirometric ratios (CR). In this work, we proposed a general mass and energy balance framework that is used to interpret observed CR in soils. Using CR it is possible to predict the metabolic pathways microbes use to decompose organic matter. Furthermore, we show that CR can be used to estimate C-use efficiency (CUE). The framework links CR, CUE, and soil organic matter priming with a simple formula.
+>The decomposition of organic matter in soils produces both heat and CO2. With simultaneous measurements of heat dissipation and CO2 production rate, it is possible to calculate the ratio of heat to CO2 production rates- referred to as the calorespirometric ratios (CR). In this work, we proposed a general mass and energy balance framework that is used to interpret observed CR in soils. Using CR it is possible to predict the metabolic pathways microbes use to decompose organic matter. Furthermore, we show that CR can be used to estimate C-use efficiency (CUE). The framework links CR, CUE, and soil organic matter priming with a simple formula.
 
 
 ### Third party scripts
